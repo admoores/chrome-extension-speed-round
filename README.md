@@ -5,4 +5,4 @@
  - Check the box that says 'Developer mode'
  - Click the button that says 'Load unpacked extension...'
  - Choose the _folder_ from the unpacked zip (the whole folder, mind)
- - There should be a small 'e' to the right of your URL bar
+ - There should be a small 'e' to the right of your URL bar. Click it and go
