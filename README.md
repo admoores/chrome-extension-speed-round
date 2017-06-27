@@ -1,4 +1,4 @@
-## How to use
+### How to use
  - Download the zip file (from the 'clone or download' button)
  - Unzip it into a folder where it won't get moved or deleted
  - In Chrome, go to `chrome://extensions/`
